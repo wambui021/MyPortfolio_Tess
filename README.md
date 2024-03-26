@@ -1,2 +1,2 @@
 # hello-world
-Hello World repository for my portfolio.
+Hello World repository for my first portfolio draft.
